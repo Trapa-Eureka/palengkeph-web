@@ -1,0 +1,15 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "8CYUJ2W96R.com.trapa.palengkeph",
+        "paths": [
+          "/listing/*",
+          "/seller/*",
+          "/*"
+        ]
+      }
+    ]
+  }
+}
